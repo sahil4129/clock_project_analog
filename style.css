@@ -24,7 +24,7 @@
 /* Clock styles */
 .circle {
     fill: none;
-    stroke: rgba(41, 25, 25, 0.719);
+    stroke: #000;
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
