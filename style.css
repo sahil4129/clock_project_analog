@@ -1,10 +1,19 @@
 /* Layout */
+.body {
+    background-image: url('images/bg.jpg');
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .main {
     display: flex;
     padding: 2em;
     height: 90vh;
     justify-content: center;
     align-items: middle;
+  
 }
 
 .clockbox,
